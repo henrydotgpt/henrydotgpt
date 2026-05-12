@@ -19,6 +19,16 @@ I like taking rough ideas and turning them into things people can actually open,
 
 Most of my repositories are private because they are product work, client work, or businesses still being shaped. This page is for the public-facing work that is ready to look at.
 
+## AI And Showcase Work
+
+I still like the HenryGPT / AI-builder side of the profile. I just want it framed as work I use to build products, not as a generic AI resume.
+
+| Area | What I Use It For |
+| --- | --- |
+| **AI tools** | assistants, analyzers, brief generators, editing workflows, and internal copilots |
+| **Template systems** | repeatable landing pages, service pages, audit flows, calculators, and generators |
+| **Showcase demos** | public previews of product ideas without exposing private code or client work |
+
 ## Recently Building
 
 Based on recent work, most of my attention has been going into:

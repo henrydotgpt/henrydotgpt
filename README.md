@@ -1,9 +1,9 @@
 <h1 align="center">Henry Batrouni</h1>
 
 <p align="center">
-  I build websites, web apps, and internet businesses.
+  Agentic engineer building autonomous workflows, AI systems, and products that ship.
   <br />
-  The behind-the-scenes stays private. The work is live.
+  Private systems. Public products. Real businesses.
 </p>
 
 <p align="center">
@@ -15,31 +15,34 @@
 
 ---
 
-I like taking rough ideas and turning them into things people can actually open, use, and buy from: brand sites, SaaS dashboards, lead-gen tools, internal systems, and new business ideas.
+I build agentic systems: software that can use tools, remember context, coordinate workflows, generate assets, analyze businesses, and turn messy operations into repeatable products.
 
-Most of my repositories are private because they are product work, client work, or businesses still being shaped. This page is for the public-facing work that is ready to look at.
+Websites and web apps are usually just the visible surface. The real work is the system underneath: agents, workflows, data, memory, automation, dashboards, and product loops.
 
-## AI And Showcase Work
+Most of my repositories are private because they are businesses, client work, internal systems, or products still being shaped. This page shows the public-facing pieces that are ready to look at.
 
-I still like the HenryGPT / AI-builder side of the profile. I just want it framed as work I use to build products, not as a generic AI resume.
+## What I Actually Build
 
-| Area | What I Use It For |
+| Area | What That Means |
 | --- | --- |
-| **AI tools** | assistants, analyzers, brief generators, editing workflows, and internal copilots |
-| **Template systems** | repeatable landing pages, service pages, audit flows, calculators, and generators |
-| **Showcase demos** | public previews of product ideas without exposing private code or client work |
+| **Agentic systems** | AI workflows with tools, memory, skills, scheduled jobs, and internal operating loops |
+| **Business automation** | lead-gen tools, analyzers, audit engines, client workflows, finance flows, reporting systems |
+| **AI product tools** | assistants, brief generators, media workflows, editors, content systems, and internal copilots |
+| **Product infrastructure** | dashboards, approvals, analytics, libraries, pipelines, private admin systems |
+| **Launch surfaces** | sites, landing pages, demos, and public interfaces that make the system usable |
 
 ## Recently Building
 
-Based on recent work, most of my attention has been going into:
+Based on recent commit activity, most of my attention has been going into:
 
-- **iSkale** — agency software, client workflows, finance tools, analytics, and Skale Brain.
-- **HenryHacks** — a growing library of practical business tools, generators, audits, and templates.
-- **The Archispace** — launch prep, material guides, search visibility, and a stronger architecture content base.
+- **iSkale App** — agency software, Skale Brain, client workflows, finance tooling, analytics, media library, and inpaint/edit flows.
+- **HenryHacks** — a growing library of practical business tools, generators, audits, templates, and PDF-export workflows.
+- **Sentai / private systems** — agent infrastructure, skills, memory, crons, backups, and internal workflow infrastructure.
+- **Open Shadow** — AI bot access/control guides and automation-heavy content infrastructure.
+- **The Archispace** — launch prep, material guides, search visibility, and an architecture content engine.
 - **4brands** — service pages, pricing, conversion flow, and a business analyzer for automation opportunities.
-- **Private systems** — automation, backups, internal tools, and workflow infrastructure that keep the products moving.
 
-## Businesses And Sites
+## Live Businesses And Public Surfaces
 
 | Project | What It Is | Link |
 | --- | --- | --- |
@@ -49,23 +52,23 @@ Based on recent work, most of my attention has been going into:
 | **The Archispace** | Material library and architecture brand site | [site](https://thearchispace-v2.vercel.app/) |
 | **Build With Henry** | Personal builder/services page | [site](https://buildwithhenry.vercel.app/) |
 
-## Web Apps And Product Experiments
+## Product Experiments And Demos
 
 | Project | What It Is | Link |
 | --- | --- | --- |
-| **iSkale App** | Agency platform for content, clients, approvals, media, and reporting | [app](https://iskaleapp.vercel.app/) |
+| **iSkale App** | Agency platform for content, clients, approvals, media, finance, and reporting | [app](https://iskaleapp.vercel.app/) |
 | **4brands** | Business analyzer for finding automation opportunities | [demo](https://4brands-nu.vercel.app/) |
 | **Briefly** | Pre-meeting intelligence brief generator | [demo](https://briefly.vercel.app/) |
 | **Quickcuts** | Video editing SaaS concept: upload, pick a style, get clips | [demo](https://quickcuts.vercel.app/) |
 | **Ziara** | Mood-based travel concierge for Tunisia | [demo](https://ziara.vercel.app/) |
-| **HenryHacks** | Small tools and experiments shipped quickly | [site](https://henryhacks.vercel.app/) |
+| **HenryHacks** | Small business tools and experiments shipped quickly | [site](https://henryhacks.vercel.app/) |
 
 ## What I Care About
 
+- systems that do real work
 - clean first impressions
 - fast useful prototypes
 - products that feel simple to use
-- websites that make the offer obvious
 - turning working demos into real businesses
 
 ## Contact

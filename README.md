@@ -1,68 +1,59 @@
-<h1 align="center">HenryGPT</h1>
+<h1 align="center">Henry Batrouni</h1>
 
 <p align="center">
-  AI-native products, automations, and web apps.
+  I build web apps, websites, and internet businesses.
   <br />
-  Private code. Public signal. Fast shipping.
+  Most of the code is private. The work is live.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60a5fa" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=facc15" alt="Python" />
-  <img src="https://img.shields.io/badge/AI_Workflows-111827?style=for-the-badge" alt="AI workflows" />
+  <a href="https://bobtides.com/">BobTides</a> ·
+  <a href="https://iskale.com/">iSkale</a> ·
+  <a href="https://madebylabs.com/">MadeByLabs</a> ·
+  <a href="https://buildwithhenry.vercel.app/">Build With Henry</a>
 </p>
 
 ---
 
-I build products that move from idea to working prototype fast.
+I like taking rough ideas and turning them into working products: landing pages, SaaS dashboards, lead-gen tools, internal systems, and brand sites.
 
-Most of my work lives in private repos while products are being built, tested, or shipped. This profile is the public window into what I am making, what I am learning, and the kind of systems I like to build.
+Most of my repositories are private because they are product work, client work, or businesses still being shaped. I keep my contribution graph public and use this page to show the parts that are ready to look at.
 
-## What I Build
+## Live Work
 
-| Area | What That Usually Means |
-| --- | --- |
-| AI apps | LLM workflows, assistants, retrieval, content tools, and productized AI features |
-| Automation | Small systems that remove repetitive work, connect tools, and make teams faster |
-| Web products | Full-stack product experiments, dashboards, landing pages, and internal tools |
-| Product labs | Fast MVPs, weird ideas, and practical experiments that teach me something |
+| Project | What It Is | Link |
+| --- | --- | --- |
+| **BobTides** | Peptide education and lifestyle site | [bobtides.com](https://bobtides.com/) |
+| **iSkale** | Social media, automation, and AI services business in Dubai | [iskale.com](https://iskale.com/) |
+| **iSkale App** | Agency platform for content, clients, approvals, media, and reporting | [app](https://iskaleapp.vercel.app/) |
+| **4brands** | Business analyzer for finding automation opportunities | [demo](https://4brands-nu.vercel.app/) |
+| **The Archispace** | Material library and architecture brand site | [site](https://thearchispace-v2.vercel.app/) |
+| **MadeByLabs** | Website and web app studio site | [madebylabs.com](https://madebylabs.com/) |
+| **Build With Henry** | Personal builder/services page | [site](https://buildwithhenry.vercel.app/) |
+| **HenryHacks** | Small tools and experiments shipped quickly | [site](https://henryhacks.vercel.app/) |
 
-## Current Focus
+## Working Demos
 
-- Building [**BobTides**](https://github.com/henrydotgpt/bobtides), a peptide education and lifestyle product.
-- Experimenting with agent workflows, private automation systems, and AI-assisted product building.
-- Turning rough ideas into shippable interfaces, then improving the parts users actually touch.
+| Project | What It Is | Link |
+| --- | --- | --- |
+| **Quickcuts** | Video editing SaaS concept: upload, pick a style, get clips | [demo](https://quickcuts.vercel.app/) |
+| **Briefly** | Pre-meeting intelligence brief generator | [demo](https://briefly.vercel.app/) |
+| **Ziara** | Mood-based travel concierge for Tunisia | [demo](https://ziara.vercel.app/) |
 
-## How I Work
+## How I Build
 
-I like projects that combine product taste with technical execution:
+- design the first usable version
+- ship quickly
+- test the idea in the browser
+- keep the interface clean
+- turn what works into a business
 
-- start with the user workflow
-- build the smallest useful version
-- wire AI into the real job, not just the demo
-- make the interface feel clear, fast, and alive
-- keep shipping while the idea is still warm
+## Stack
 
-## Stack I Reach For
-
-`TypeScript` `React` `Next.js` `Tailwind CSS` `Node.js` `Python` `LLMs` `automation` `product design`
-
-## Public Signal
-
-Most builds start private. I use public repos for:
-
-- case studies
-- demos
-- experiments
-- reusable notes
-- product snapshots
-
-Pinned repos are the best place to start.
+`TypeScript` `React` `Next.js` `Tailwind CSS` `Node.js` `Python` `Vercel` `Supabase`
 
 ## Contact
 
-Open to useful conversations, sharp product ideas, and builders who like moving fast.
+Useful ideas, sharp feedback, and serious builds are always welcome.
 
 [henrydotbatrouni@gmail.com](mailto:henrydotbatrouni@gmail.com)

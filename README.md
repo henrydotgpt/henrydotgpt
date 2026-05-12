@@ -19,6 +19,16 @@ I like taking rough ideas and turning them into things people can actually open,
 
 Most of my repositories are private because they are product work, client work, or businesses still being shaped. This page is for the public-facing work that is ready to look at.
 
+## Recently Building
+
+Based on recent work, most of my attention has been going into:
+
+- **iSkale** — agency software, client workflows, finance tools, analytics, and Skale Brain.
+- **HenryHacks** — a growing library of practical business tools, generators, audits, and templates.
+- **The Archispace** — launch prep, material guides, search visibility, and a stronger architecture content base.
+- **4brands** — service pages, pricing, conversion flow, and a business analyzer for automation opportunities.
+- **Private systems** — automation, backups, internal tools, and workflow infrastructure that keep the products moving.
+
 ## Businesses And Sites
 
 | Project | What It Is | Link |

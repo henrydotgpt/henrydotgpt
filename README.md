@@ -31,6 +31,20 @@ Most of my repositories are private because they are businesses, client work, in
 | **Product infrastructure** | dashboards, approvals, analytics, libraries, pipelines, private admin systems |
 | **Launch surfaces** | sites, landing pages, demos, and public interfaces that make the system usable |
 
+## How I Think About Agents
+
+I care less about chatbots and more about systems that can do useful work with context.
+
+The agentic systems I build usually have:
+
+- **memory** — persistent context, user preferences, project history, and reusable knowledge
+- **tools** — APIs, browsers, file systems, databases, schedulers, and product actions
+- **skills** — repeatable playbooks for common jobs instead of one-off prompting
+- **interfaces** — dashboards, editors, forms, and review flows humans can actually use
+- **feedback loops** — analytics, approvals, logs, and iteration points so the system improves
+
+The goal is not to make AI feel magical. The goal is to make operations less manual.
+
 ## Recently Building
 
 Based on recent commit activity, most of my attention has been going into:
@@ -41,6 +55,18 @@ Based on recent commit activity, most of my attention has been going into:
 - **Open Shadow** — AI bot access/control guides and automation-heavy content infrastructure.
 - **The Archispace** — launch prep, material guides, search visibility, and an architecture content engine.
 - **4brands** — service pages, pricing, conversion flow, and a business analyzer for automation opportunities.
+
+## Private Work
+
+A lot of the interesting work is private by design:
+
+- business logic that should not be public
+- client and company workflows
+- internal dashboards and admin systems
+- agent memory, skills, and automation infrastructure
+- product experiments that are not ready to be judged yet
+
+The public links below are the part you can open. The contribution graph is the receipt that the private systems are actively being built.
 
 ## Live Businesses And Public Surfaces
 
@@ -62,6 +88,14 @@ Based on recent commit activity, most of my attention has been going into:
 | **Quickcuts** | Video editing SaaS concept: upload, pick a style, get clips | [demo](https://quickcuts.vercel.app/) |
 | **Ziara** | Mood-based travel concierge for Tunisia | [demo](https://ziara.vercel.app/) |
 | **HenryHacks** | Small business tools and experiments shipped quickly | [site](https://henryhacks.vercel.app/) |
+
+## Problems I Like
+
+- turning messy business workflows into repeatable systems
+- making AI tools useful inside real products, not just demos
+- building generators, analyzers, and audit flows that create immediate value
+- creating dashboards where humans can steer automated work
+- shipping the first useful version fast, then compounding from there
 
 ## What I Care About
 
